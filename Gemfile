@@ -47,3 +47,6 @@ group :development do
   gem 'spring'
 end
 
+
+#https://github.com/joedynamite/envb-rails
+gem 'envb-rails'
